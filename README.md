@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jinesh-Nahar
+- 👋 Hi, I’m @Jin2420
 - 👀 I’m interested in Machine Learning for Object detection
 - 🌱 I’m currently pursuing Masters in Automotive Engg
 - 💞️ I’m looking to collaborate on optimizing ML models
